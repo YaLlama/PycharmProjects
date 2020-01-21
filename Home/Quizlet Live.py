@@ -123,4 +123,3 @@ joinGame('will')
 nextAccount()
 newTab()
 joinGame('ethan')
-
