@@ -2,7 +2,7 @@ from pynput.mouse import Button, Controller as Mctr
 import keyboard
 import time
 
-code = '532474'
+code = '429567'
 openBrowser = 3
 pageLoad = 2 + 2
 reload = .1 + 2
@@ -11,12 +11,8 @@ naemReload = 1 + 2
 accNum = 0
 
 def stop():
-    mouse.position = (856, 847)
+    mouse.position = (574, 852)
     mouse.click(Button.left, 1)
-    time.sleep(.2)
-    mouse.position = (108, 594)
-    mouse.click(Button.left, 1)
-
 
 def joinGame(name):
     mouse.position = (188, 50)
@@ -29,9 +25,9 @@ def joinGame(name):
     mouse.click(Button.left, 1)
     keyboard.wait('ctrl')
     keyboard.write(name)
-    keyboard.wait('ctrl')
     mouse.position = (761, 426)
     mouse.click(Button.left, 1)
+    keyboard.wait('ctrl')
 
 def nextAccount():
     global accNum
@@ -75,8 +71,80 @@ def newTab():
     mouse.click(Button.left, 1)
     keyboard.wait('ctrl')
 
+def inject():
+    mouse.position = (1402, 47)
+    mouse.click(Button.left, 1)
+    keyboard.wait('ctrl')
+    mouse.position = (1373, 276)
+    mouse.click(Button.left, 1)
+    keyboard.wait('ctrl')
+    mouse.position = (1289, 256)
+    mouse.click(Button.left, 1)
+    keyboard.press_and_release('enter')
+    keyboard.wait('ctrl')
+    mouse.position = (171, 177)
+    mouse.click(Button.left, 1)
+    keyboard.wait('ctrl')
+    keyboard.press_and_release('ctrl+v')
+    time.sleep(.2)
+    mouse.position = (335, 78)
+    mouse.click(Button.left, 1)
+    keyboard.wait('ctrl')
+    keyboard.press_and_release('v')
+    time.sleep(.1)
+    keyboard.press_and_release('c')
+    keyboard.wait('ctrl')
 
-keyboard.add_hotkey('p', stop, args=())
+
+
+def injectGetCode():
+    mouse.position = (1402, 47)
+    mouse.click(Button.left, 1)
+    keyboard.wait('ctrl')
+    mouse.position = (1373, 276)
+    mouse.click(Button.left, 1)
+    keyboard.wait('ctrl')
+    mouse.position = (1289, 256)
+    mouse.click(Button.left, 1)
+    keyboard.press_and_release('enter')
+    keyboard.wait('ctrl')
+    mouse.position = (120, 150)
+    mouse.click(Button.left, 1)
+    keyboard.wait('ctrl')
+    keyboard.write(code[0])
+    keyboard.write(code[1])
+    keyboard.write(code[2])
+    keyboard.write(code[3])
+    keyboard.write(code[4])
+    keyboard.write(code[5])    
+    mouse.position = (146, 117)
+    mouse.click(Button.left, 1)
+    keyboard.wait('ctrl')
+    mouse.position = (146, 117)
+    mouse.click(Button.left, 3)
+    keyboard.wait('ctrl')
+    keyboard.press_and_release('ctrl+a')
+    keyboard.wait('ctrl')
+    keyboard.press_and_release('ctrl+c')
+    mouse.position = (493, 14)
+    mouse.click(Button.left, 1)
+    keyboard.wait('ctrl')
+    mouse.position = (171, 177)
+    mouse.click(Button.left, 1)
+    keyboard.press_and_release('ctrl+v')
+    time.sleep(.2)
+    mouse.position = (335, 78)
+    mouse.click(Button.left, 1)
+    keyboard.wait('ctrl')
+    keyboard.press_and_release('v')
+    time.sleep(.1)
+    keyboard.press_and_release('c')
+    keyboard.wait('ctrl')
+
+
+
+
+keyboard.add_hotkey('alt', stop, args=())
 
 mouse = Mctr()
 
@@ -101,6 +169,22 @@ mouse.click(Button.left, 3)
 keyboard.write('https://quizlet.com/logout')
 keyboard.press_and_release('enter')
 keyboard.wait('ctrl')
+mouse.position = (1326, 108)
+mouse.click(Button.left, 1)
+
+keyboard.wait('ctrl')
+mouse.position = (1270, 244)
+mouse.click(Button.left, 1)
+keyboard.wait('ctrl')
+mouse.position = (1267, 107)
+mouse.click(Button.left, 1)
+keyboard.wait('ctrl')
+mouse.position = (630, 459)
+mouse.click(Button.left, 1)
+keyboard.wait('ctrl')
+keyboard.wait('shift')
+mouse.position = (704, 666)
+mouse.click(Button.left, 1)
 
 ##Cycle
 ##open new tab
@@ -123,3 +207,19 @@ joinGame('will')
 nextAccount()
 newTab()
 joinGame('ethan')
+
+##injection
+
+injectGetCode()
+accNum -= 1
+newTab()
+injectGetCode()
+accNum -= 1
+newTab()
+injectGetCode()
+accNum -= 1
+newTab()
+injectGetCode()
+accNum -= 1
+newTab()
+injectGetCode()
