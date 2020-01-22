@@ -2,7 +2,7 @@ from pynput.mouse import Button, Controller as Mctr
 import keyboard
 import time
 
-code = '767819'
+code = '764389'
 openBrowser = 3
 pageLoad = 2 + 2
 reload = .1 + 2
@@ -208,11 +208,11 @@ joinGame('brian')
 
 nextAccount()
 newTab()
-joinGame('will')
+joinGame('part')
 
 nextAccount()
 newTab()
-joinGame('brandon')
+joinGame('brannndon')
 
 ##injection
 
