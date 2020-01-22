@@ -2,7 +2,7 @@ from pynput.mouse import Button, Controller as Mctr
 import keyboard
 import time
 
-code = '429567'
+code = '767819'
 openBrowser = 3
 pageLoad = 2 + 2
 reload = .1 + 2
@@ -112,11 +112,17 @@ def injectGetCode():
     mouse.click(Button.left, 1)
     keyboard.wait('ctrl')
     keyboard.write(code[0])
+    keyboard.wait('ctrl')
     keyboard.write(code[1])
+    keyboard.wait('ctrl')
     keyboard.write(code[2])
+    keyboard.wait('ctrl')
     keyboard.write(code[3])
+    keyboard.wait('ctrl')
     keyboard.write(code[4])
-    keyboard.write(code[5])    
+    keyboard.wait('ctrl')
+    keyboard.write(code[5])
+    keyboard.wait('ctrl')
     mouse.position = (146, 117)
     mouse.click(Button.left, 1)
     keyboard.wait('ctrl')
@@ -206,20 +212,22 @@ joinGame('will')
 
 nextAccount()
 newTab()
-joinGame('ethan')
+joinGame('brandon')
 
 ##injection
 
 injectGetCode()
 accNum -= 1
 newTab()
-injectGetCode()
+inject()
 accNum -= 1
 newTab()
-injectGetCode()
+inject()
 accNum -= 1
 newTab()
-injectGetCode()
+inject()
 accNum -= 1
 newTab()
-injectGetCode()
+inject()
+
+stop()
