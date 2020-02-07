@@ -2,7 +2,7 @@ from pynput.mouse import Button, Controller as Mctr
 import keyboard
 import time
 
-code = '764389'
+code = '771403'
 openBrowser = 3
 pageLoad = 2 + 2
 reload = .1 + 2
