@@ -15,7 +15,7 @@ class objectControl:
             theta = i * frequencyRad
             y = math.cos(theta) * radius
             x = math.sin(theta) * radius
-            points.append([int(x)+X, int(y)+Y])
+            points.append([int(x+X), int(y+Y)])
 
         display.drawShape(points, color)
 

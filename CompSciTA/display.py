@@ -44,6 +44,7 @@ class display:
             point2 = points[i + 1]
 
             if point1[0] == point2[0]:
+
                 lineSegments.append([point1[1], point2[1], point1[0]])
             else:
                 # y1, (y1-y2)/(x1-x2), x1, x2
@@ -109,7 +110,7 @@ class display:
             # print(*xs, sep=", ")
             # print("true")
 
-            for i in range(len(xs)):
+            for i in range(int(len(xs)/2)):
                 if i % 2 == 1:
 
                     for x in range(xs[i] - xs[i - 1]):
