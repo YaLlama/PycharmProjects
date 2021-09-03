@@ -76,7 +76,6 @@ class display:
 
             if len(yBounds) % 2 == 1:
                 yBounds = removeDuplicates(yBounds)
-                print(*yBounds)
 
             yBounds.sort()
 
