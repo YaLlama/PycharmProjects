@@ -1,0 +1,7 @@
+Create a 3D simulation
+-Get python working
+-Get pygame working
+    -Find a way to represent 3D fuigures in code
+    -Create a way to display them to the screen
+    -Find a way to mathematically modify these fuigures
+    -Create a way to move around

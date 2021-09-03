@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e396648d-68af-40d1-a474-2ea739cc3752" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SignIntoSchoolChrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vacciene.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zoom Bots.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quizlet Live.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quizlet Live.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Musically.py" beforeDir="false" afterPath="$PROJECT_DIR$/Musically.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Quizlet Live">
+  <component name="RunManager" selected="Python.Vacciene (1)">
     <configuration name="MousePos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Home" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,7 +59,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Quizlet Bots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Musically" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Home" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quizlet Bots.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Musically.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Quizlet Codes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Vacciene (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Home" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quizlet Codes.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Vacciene.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Quizlet Live" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Vacciene" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Home" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quizlet Live.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Vacciene.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SignIntoSchoolChrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Zoom Bots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Home" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jkcca\PycharmProjects\Home\SignIntoSchoolChrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zoom Bots.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Quizlet Live" />
-        <item itemvalue="Python.SignIntoSchoolChrome" />
+        <item itemvalue="Python.Vacciene (1)" />
+        <item itemvalue="Python.Vacciene" />
+        <item itemvalue="Python.Musically" />
         <item itemvalue="Python.MousePos" />
-        <item itemvalue="Python.Quizlet Codes" />
-        <item itemvalue="Python.Quizlet Bots" />
+        <item itemvalue="Python.Zoom Bots" />
       </list>
     </recent_temporary>
   </component>
@@ -181,49 +182,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="603" y="329" width="354" height="165" key="Github.CreateGistDialog" timestamp="1579647950829">
+    <state x="445" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1630607014058">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="603" y="329" width="354" height="165" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1579647950829" />
-    <state width="1364" height="195" key="GridCell.Tab.0.bottom" timestamp="1579887174064">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579887174064" />
-    <state width="1364" height="195" key="GridCell.Tab.0.center" timestamp="1579887174061">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579887174061" />
-    <state width="1364" height="195" key="GridCell.Tab.0.left" timestamp="1579887174061">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579887174061" />
-    <state width="1364" height="195" key="GridCell.Tab.0.right" timestamp="1579887174064">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1364" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579887174064" />
-    <state x="277" y="54" key="SettingsEditor" timestamp="1579709444101">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579709444101" />
-    <state x="168" y="120" width="1200" height="584" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579651052598">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="168" y="120" width="1200" height="584" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1579651052598" />
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1579886829184">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579886829184" />
-    <state x="104" y="0" width="1037" height="538" key="dock-window-1" timestamp="1579645692781">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="104" y="0" width="1037" height="538" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1579645692781" />
-    <state x="463" y="10" width="611" height="804" key="find.popup" timestamp="1579718470705">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="463" y="10" width="611" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1579718470705" />
-    <state x="431" y="145" key="search.everywhere.popup" timestamp="1576270814558">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1576270814558" />
+    <state x="445" y="226" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1630607014058" />
   </component>
 </project>

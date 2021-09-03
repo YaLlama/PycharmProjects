@@ -16,7 +16,7 @@ def toggle():
 
 mouse = Controller()
 
-boolean = True
+boolean = False
 
 keyboard.add_hotkey('q', toggle, args=())
 
@@ -25,9 +25,10 @@ keyboard.add_hotkey('q', toggle, args=())
 
 while True:
     while boolean:
-        printscreen_pil = ImageGrab.grab()
-        
-
+        screen = ImageGrab.grab()
+        screen.convert("RGB")
+        color = screen.getpixel((1005, 348))
+        print(color)
 
 
 
