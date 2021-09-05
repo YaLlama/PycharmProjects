@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="379eb49f-fcbc-4a37-a66b-13cdb839881c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CompSciTA/displayControler2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CompSciTA/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/CompSciTA/Main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CompSciTA/ObjectControl.py" beforeDir="false" afterPath="$PROJECT_DIR$/CompSciTA/ObjectControl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CompSciTA/display.py" beforeDir="false" afterPath="$PROJECT_DIR$/CompSciTA/display.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,12 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CompSciTA/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="119">
+              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -32,8 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CompSciTA/displayControler2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="61" column="33" lean-forward="true" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+            <state relative-caret-position="794">
+              <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -41,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CompSciTA/Display.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1334">
-              <caret line="107" column="21" lean-forward="true" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
+            <state relative-caret-position="998">
+              <caret line="107" column="21" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -50,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CompSciTA/ObjectControl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="182">
+              <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -73,8 +71,8 @@
       <list>
         <option value="$PROJECT_DIR$/CompSciTA/Display.py" />
         <option value="$PROJECT_DIR$/CompSciTA/.idea/displayControler2.py" />
-        <option value="$PROJECT_DIR$/CompSciTA/ObjectControl.py" />
         <option value="$PROJECT_DIR$/CompSciTA/displayControler2.py" />
+        <option value="$PROJECT_DIR$/CompSciTA/ObjectControl.py" />
         <option value="$PROJECT_DIR$/CompSciTA/Main.py" />
       </list>
     </option>
@@ -166,57 +164,51 @@
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980299" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980299" />
       <window_info id="Structure" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17620137" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17620137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CompSciTA/.idea/displayControler2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CompSciTA/ObjectControl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/CompSciTA/.idea/displayControler2.py" />
     <entry file="file://$PROJECT_DIR$/CompSciTA/Display.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1334">
-          <caret line="107" column="21" lean-forward="true" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
+        <state relative-caret-position="998">
+          <caret line="107" column="21" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CompSciTA/displayControler2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="61" column="33" lean-forward="true" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+        <state relative-caret-position="794">
+          <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompSciTA/ObjectControl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CompSciTA/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="119">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
